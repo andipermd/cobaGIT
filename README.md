@@ -6,3 +6,7 @@
 4. git pull : mengambil file dari repo untuk di modifikasi dan di push kembali
 5. git add . : menambahkan perubahan terbaru pada semua file
 6. git commit -m : setelah di "git add . " tambhakan message
+7. git branch -M main : tujuan branch
+8. git push -u origin main : push ke dalan branch main
+
+catatan : perlu di perhatikan default branch nya
