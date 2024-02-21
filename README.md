@@ -10,3 +10,12 @@
 8. git push -u origin main : push ke dalan branch main
 
 catatan : perlu di perhatikan default branch nya
+
+<!-- Large file To GITHUB -->
+
+1. git lfs install
+2. git lfs track "\*.zip" : format file apa yang yg akan di push
+3. git lfs push --all origin main
+4. git add .
+5. git commit -m ""
+6. git push -u origin main
