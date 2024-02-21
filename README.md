@@ -1,3 +1,5 @@
+----CARA PAKE GIT-----
+
 1. git init : add .git (create folder repository)
 2. git remote -v : chek tujuan link repository
    - git remote add origin LINK_REPO : memasukkan link repo
@@ -11,7 +13,9 @@
 
 catatan : perlu di perhatikan default branch nya
 
-<!-- Large file To GITHUB -->
+---------<<>>------------
+
+----LARGE FILE TO GIHUB----
 
 1. git lfs install
 2. git lfs track "\*.zip" : format file apa yang yg akan di push
@@ -19,3 +23,5 @@ catatan : perlu di perhatikan default branch nya
 4. git add .
 5. git commit -m ""
 6. git push -u origin main
+
+---------<<>>------------
